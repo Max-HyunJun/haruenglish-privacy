@@ -1,0 +1,7 @@
+title: 하루한줄 육아영어
+lang: ko
+markdown: kramdown
+kramdown:
+  input: GFM
+exclude:
+  - README.md
